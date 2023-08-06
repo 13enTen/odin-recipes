@@ -4,9 +4,9 @@
 }
 
 .recipe-card {
-    background-color: lightpink;
+    background-color: lightgrey;
     margin: 150px 150px;
-    border: 5px solid green;
+    border: 5px solid lightskyblue;
 }
 
 .center-text {
